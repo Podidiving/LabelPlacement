@@ -1,0 +1,32 @@
+-
+  x: 250
+  y: 250
+  height: 100
+  width: 100
+  positions:
+    - BOTTOM_MIDDLE
+    - TOP_MIDDLE
+-
+  x: 380
+  y: 330
+  height: 150
+  width: 100
+  positions:
+    - LEFT_BOTTOM
+    - RIGHT_BOTTOM
+-
+  x: 200
+  y: 200
+  height: 50
+  width: 100
+  positions:
+    - LEFT_TOP
+    - TOP_MIDDLE
+-
+  x: 100
+  y: 100
+  height: 30
+  width: 50
+  positions:
+  - RIGHT_TOP
+  - LEFT_TOP
